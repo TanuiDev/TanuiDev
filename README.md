@@ -1,39 +1,80 @@
-# Brian Tanui
-Full-Stack Developer | JavaScript | TypeScript | Python | .NET | Cloud & Automation
+<h1 align="center">Brian Tanui</h1>
+<h3 align="center">Full-Stack Developer • JavaScript • TypeScript • Python • .NET</h3>
 
-## Professional Summary
-Full-stack developer with experience building scalable, secure, and maintainable web applications. Strong background in JavaScript, TypeScript, Python, and .NET, with hands-on experience in cloud platforms, REST APIs, databases, and automated testing. Passionate about clean code, performance optimization, and delivering reliable production-ready solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanuiDev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## Core Skills
-- Frontend: React, Redux, Tailwind CSS, HTML5, CSS3
-- Backend: Node.js, NestJS, Express, Django, .NET
-- Languages: JavaScript, TypeScript, Python, C#
-- Databases: PostgreSQL, MySQL, MongoDB, SQL Server
-- Testing & QA: Jest, Cypress, Selenium, Mocha
-- DevOps & Cloud: Docker, Azure, Firebase, CI/CD
-- Architecture: REST APIs, Microservices, MVC, Clean Architecture
-- Tools: Git, GitHub, Linux, Agile/Scrum
+<p align="center">
+  <a href="https://linkedin.com/in/briantanui">
+    <img src="https://img.shields.io/badge/LinkedIn-Brian%20Tanui-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:briantanui.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/TanuiDev">
+    <img src="https://img.shields.io/badge/GitHub-TanuiDev-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-## Experience Highlights
-- Designed and developed full-stack web applications serving real-world business needs
-- Built RESTful APIs and backend services with authentication and role-based access
-- Implemented automated test suites to improve code reliability and reduce regressions
-- Optimized application performance and database queries
-- Containerized applications using Docker for consistent deployments
-- Collaborated with cross-functional teams in Agile environments
+---
 
-## Selected Projects
-- Full-Stack Web Applications: Scalable applications using React, Node.js, and PostgreSQL
-- API Development: Secure REST APIs built with NestJS and Django
-- Automation & Testing: End-to-end testing frameworks using Cypress and Selenium
-- Cloud Deployments: Applications deployed on Azure and Firebase with CI/CD pipelines
+## 👨‍💻 Professional Summary
+<p>
+Full-stack developer experienced in building scalable, secure, and production-ready web applications.
+Strong background in JavaScript, TypeScript, Python, and .NET with hands-on experience in cloud platforms,
+REST APIs, databases, and automated testing.
+</p>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanuiDev&show_icons=true&theme=default)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanuiDev&theme=default)
+## 🧠 Core Skills
 
-## Contact
-- LinkedIn: https://linkedin.com/in/briantanui
-- Twitter: https://twitter.com/brianki6021343
-- Email: briantanui371@gmail.com
+<p>
+<b>Frontend:</b> React, Redux, Tailwind CSS, HTML5, CSS3<br/>
+<b>Backend:</b> Node.js, NestJS, Express, Django, .NET<br/>
+<b>Languages:</b> JavaScript, TypeScript, Python, C#<br/>
+<b>Databases:</b> PostgreSQL, MySQL, MongoDB, SQL Server<br/>
+<b>Testing:</b> Jest, Cypress, Selenium, Mocha<br/>
+<b>Cloud & DevOps:</b> Docker, Azure, Firebase, CI/CD
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="42"/>
+</p>
+
+---
+
+## 📌 Selected Work (Highlights)
+<ul>
+  <li>Built full-stack web applications using React, Node.js, and PostgreSQL</li>
+  <li>Designed secure REST APIs with authentication and role-based access</li>
+  <li>Implemented automated testing to improve reliability and reduce regressions</li>
+  <li>Containerized applications using Docker for consistent deployments</li>
+</ul>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanuiDev&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanuiDev&theme=default" />
+</p>
