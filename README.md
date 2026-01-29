@@ -72,9 +72,16 @@ REST APIs, databases, and automated testing.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanuiDev&show_icons=true&theme=default" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TanuiDev&show_icons=true&include_all_commits=true&count_private=true"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanuiDev&theme=default" />
+  <img
+    src="https://streak-stats.demolab.com?user=TanuiDev"
+    alt="GitHub streak"
+  />
 </p>
+
